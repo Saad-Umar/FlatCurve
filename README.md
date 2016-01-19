@@ -26,7 +26,8 @@ Maintained by [**@Saad Umar**](https://www.facebook.com/Sady93)
 
 ## About
 
-This component was initially designed for one of our projects we were working on, later we decided to upload it so that it may benefit others
+This component was initially designed for one of our projects we were working on, later we decided to upload it so that it may benefit others.
+This project is built using xcode 7.1 
 
 
 ## License
