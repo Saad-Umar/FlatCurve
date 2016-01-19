@@ -4,7 +4,7 @@
 
 UIView extended to create a flat curve with inspectable properties 
 
-![FlatCurve banner](https://cloud.githubusercontent.com/assets/8338710/12421794/9736a8c6-bee5-11e5-9edf-54e71441550d.png)
+![FlatCurve banner](https://cloud.githubusercontent.com/assets/8338710/12422165/57770bb6-bee7-11e5-86d0-18360025fb19.png)
 
 
 ## Requirements
