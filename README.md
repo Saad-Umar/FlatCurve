@@ -9,8 +9,8 @@ UIView extended to create a flat curve with inspectable properties
 
 ## Credits
 
-Created by [**@Pluto Inc.**](https://www.facebook.com/plutoinc4).
-Maintained by [**@Pluto Inc.**](https://www.facebook.com/plutoinc4).
+Created by [**@Saad Umar.**](https://www.facebook.com/plutoinc4).
+Maintained by [**@Saad Umar.**](https://www.facebook.com/plutoinc4).
 
 
 
@@ -22,7 +22,7 @@ This component was initially designed for one of our projects we were working on
 ## License
 
 
->**Copyright &copy; 2015-present Pluto Inc.**
+>**Copyright &copy; 2015-present Saad Umar.**
 
 *Please provide attribution, it is greatly appreciated.*
 
