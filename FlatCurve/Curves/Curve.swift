@@ -25,7 +25,7 @@ import UIKit
         let layer = CAShapeLayer()
         layer.path = drawCurvesInRect(rect)
         layer.fillColor = layerColor.CGColor
-        self.layer.addSublayer(layer)
+        self.layer.insertSublayer(layer, atIndex: 0)
     }
     
     //Sets the actual path
